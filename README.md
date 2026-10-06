@@ -2,3 +2,4 @@
 ## Integrantes y Compromisos
 1. Edgar Joaquin Chim Balam (Líder) - Compromiso: Gestionar el repositorio y liderar el análisis técnico.
 2. [Nombre del compañero] ([Rol]) - Compromiso: [Escribir compromiso]
+- [NOMBRE DEL COMPAÑERO] (Rol: [SU ROL]) - Compromiso: [SU COMPROMISO]
